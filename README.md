@@ -1,0 +1,1 @@
+TaskManagerAPI es una API RESTful desarrollada con ASP.NET Core que permite gestionar tareas. Proporciona endpoints para crear, leer, actualizar y eliminar tareas, facilitando la integración con aplicaciones front-end.
